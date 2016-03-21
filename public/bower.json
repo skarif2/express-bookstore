@@ -1,0 +1,24 @@
+{
+  "name": "public",
+  "authors": [
+    "skarif2 <skarif2@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-route": "^1.5.2",
+    "bootstrap": "^3.3.6",
+    "angular": "^1.5.2",
+    "jquery": "^2.2.2"
+  }
+}
