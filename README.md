@@ -14,7 +14,7 @@
 ####cd into the directory and run - 
 > npm install 
 ######  (make sure you have node installed)
-####cd back to previous drive and run - 
+####When all the dependencies are installed run - 
 > npm start 
 ######	or 
 > node app.js
