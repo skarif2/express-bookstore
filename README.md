@@ -1,7 +1,7 @@
 # express-bookstore 
-######Yet another RESTful api driven project
+#### Yet another RESTful api driven project
 
-###Used tools	-> Node.js, Express.js, Angular.js, MongoDB
+### Used tools	-> Node.js, Express.js, Angular.js, MongoDB
 
 ![alt tag](https://raw.githubusercontent.com/skarif2/express-bookstore/master/showbooks.png)
 ![alt tag](https://raw.githubusercontent.com/skarif2/express-bookstore/master/bookdetails.png)
